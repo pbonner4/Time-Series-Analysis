@@ -1,7 +1,5 @@
 # Time-Series-Analysis
 
-### Unit 10—A Yen for the Future
-
 ## Background
 
 The financial departments of large companies often deal with foreign currency transactions while doing international business. As a result, they are always looking for anything that can help them better understand the future direction and risk of various currencies. Hedge funds, too, are keenly interested in anything that will give them a consistent edge in predicting currency movements. 
