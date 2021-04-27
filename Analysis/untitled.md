@@ -13,6 +13,6 @@ Volotility is expected to increase.
 
 Based on the model evaluation, would you feel confident in using these models for trading?
 
-Time series can identify the noise elements, and unique movments and separate them from the overall trend.
+Time series can identify the noise elements, and unique movements and separate them from the overall trend.
 This is not to say that it will give you meaningful results all the time, but you could use that general trend information, and the unique movements that were observed
 in order to conduct meangingfull analysis.
